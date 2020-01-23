@@ -1,0 +1,9 @@
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\bin\Debug\CalculatorKonov.exe.config
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\bin\Debug\CalculatorKonov.exe
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\bin\Debug\CalculatorKonov.pdb
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\obj\Debug\CalculatorKonov.csprojAssemblyReference.cache
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\obj\Debug\CalculatorKonov.Properties.Resources.resources
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\obj\Debug\CalculatorKonov.csproj.GenerateResource.cache
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\obj\Debug\CalculatorKonov.exe
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\obj\Debug\CalculatorKonov.pdb
+C:\Users\vtaly1\source\repos\CalculatorKonov\CalculatorKonov\obj\Debug\CalculatorKonov.CalcKonov.resources
